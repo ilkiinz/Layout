@@ -2,7 +2,7 @@
     margin: 0px;
     padding: 0px;
 }
-.first{
+.main-page{
     padding-top: 11px;
     padding-left: 121px;
     padding-right: 85px;
@@ -15,11 +15,13 @@
 }
 .time{
  margin-top: 43px;
- margin-bottom: 184px;
+ margin-bottom: 29px;
  margin-right: 163px;
  display: flex;
  flex-direction: row;
- justify-content: space-around;
+}
+.time div{
+    margin-right: 25px;
 }
 .time-block-first{
     display: flex;
@@ -38,6 +40,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 400px;
     line-height: 23px;
+    margin-left: 10px;
 }
 .head-text{
     font-family: 'Roboto Slab', serif;
@@ -54,38 +57,66 @@
 .block-third{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+}
+.content-middle-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 68px;
 }
 .content-middle{
-    margin-top: 87.62px;
-    margin-left: 409.39px;
-    margin-bottom: 173.36px;
     width: 483.63px;
-    height: 200.02px;
     background-color: rgb(16, 16, 155);
     color: white;
+    padding: 19px 19px 21px 26px;
 }
 .middle-text{
     font-family: 'Roboto Slab', serif;
     width: 400px;
     font-size: 25px;
     line-height: 32.5px;
-    padding-left: 26.03px;
-    padding-top: 19.26px;
-    padding-right: 27.02px;
-    padding-bottom: 67.74px;
 }
-.author{
-width: 280.5px;
-height: 45.64px;
-padding-left: 184.61px;
-padding-top: 154.38px;
-padding-right: 108.52px;
-padding-bottom: 0.02px;
-text-align: right;
-font-family: Roboto;
-font-size: 20px;
-font-weight: 400;
-line-height: 26px;
+.author {
+    color: black;
+    text-align: right;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+}
+.course{
+ font-family: Roboto Slab;
+font-size: 55px;
+font-weight: 700;
+line-height: 56px;
 letter-spacing: 0em;
+text-align: left;
+height: 93px;
+width: 365px;
+padding-left: 121px;
+padding-top: 173.36px;
+padding-right: 954px;
+padding-bottom: 18px;
+}
+.main-text-two{
+font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+height: 374px;
+width: 662px;
+padding-top: 18px;
+padding-right: 190px;
+padding-bottom: 94px;
+}
+.block-fourth{
+    display: flex;
+}
+.photo-ordinator{
+    padding-top: 308.36px;
+    padding-right: 153px;
+    padding-bottom: 199px;
 }
