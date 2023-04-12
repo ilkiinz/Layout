@@ -58,15 +58,21 @@
 }
 .content-middle{
     display: flex;
-    position: absolute;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 87.62px;
+    margin-left: 409.39px;
+    margin-right: 546.98px;
+    margin-bottom: 173.36px;
     width: 483.63px;
     height: 200.02px;
-    left: 419px;
-    top: 670px;
+    left: 409px;
+    top: 666px;
     background-color: rgb(16, 16, 155);
     color: white;
 }
 .middle-text{
+    position: absolute;
     font-family: 'Roboto Slab', serif;
     width: 400px;
     font-size: 25px;
@@ -75,4 +81,19 @@
     padding-top: 19.26px;
     padding-right: 27.02px;
     padding-bottom: 67.74px;
+}
+.author{
+position: absolute;
+width: 280.5px;
+height: 45.64px;
+padding-left: 184.61px;
+padding-top: 154.38px;
+padding-right: 108.52px;
+padding-bottom: 0.02px;
+text-align: right;
+font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
 }
