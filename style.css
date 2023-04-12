@@ -66,7 +66,6 @@
     color: white;
 }
 .middle-text{
-    position: absolute;
     font-family: 'Roboto Slab', serif;
     width: 400px;
     font-size: 25px;
@@ -77,7 +76,6 @@
     padding-bottom: 67.74px;
 }
 .author{
-position: absolute;
 width: 280.5px;
 height: 45.64px;
 padding-left: 184.61px;
