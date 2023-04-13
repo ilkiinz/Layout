@@ -227,3 +227,7 @@
         text-align: left;
         padding-top: 248px;
 }
+.last-block{
+    display: flex;
+    flex-wrap: wrap;
+}
