@@ -166,3 +166,37 @@
     text-align: left;
     padding-right: 95px;
 }
+.head-format{
+    font-family: Roboto Slab;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 178px;
+    padding-bottom: 89px;
+}
+.block-sixth{
+    display: flex;
+}
+
+.head-text-blue{
+    font-family: Roboto;
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 32px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: rgb(23, 66, 146);
+        
+}
+.text-third{
+    font-family: Roboto;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 23px;
+        letter-spacing: 0em;
+        text-align: left;
+}
+
+
