@@ -233,8 +233,10 @@
     padding-top: 95px;
  }
  .last-block div{
-    height: 328px;
-width: 399px;
-border-radius: 30px;
-    border: 2px solid red;
+    margin-right: 37px;
+        margin-bottom: 41px;
+        height: 328px;
+        width: 399px;
+        border-radius: 30px;
+        border: 2px solid rgb(71, 69, 69);
 }
