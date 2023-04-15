@@ -235,8 +235,18 @@
  .last-block div{
     margin-right: 37px;
         margin-bottom: 41px;
-        height: 328px;
-        width: 399px;
         border-radius: 30px;
         border: 2px solid rgb(71, 69, 69);
+}
+.head-last{
+    font-family: Roboto;
+font-size: 30px;
+font-weight: 700;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: left;
+padding-left: 20px;
+padding-top: 171px;
+padding-right: 14px;
+padding-bottom: 118px;
 }
