@@ -230,4 +230,11 @@
 .last-block{
     display: flex;
     flex-wrap: wrap;
+    padding-top: 95px;
+ }
+ .last-block div{
+    height: 328px;
+width: 399px;
+border-radius: 30px;
+    border: 2px solid red;
 }
