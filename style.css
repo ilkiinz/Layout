@@ -252,11 +252,13 @@ padding-bottom: 118px;
 }
 .page-two{
     background: #EFEFEF;
-    height: 780px;
+border-radius: 0px;
+height: 780px;
 width: 1440px;
 left: -1px;
 top: 4625px;
 border-radius: 0px;
+
 
 }
 .page-two-head{
@@ -269,5 +271,26 @@ text-align: left;
 padding-left: 122px;
 padding-top: 91px;
 padding-right: 331px;
-padding-bottom: 34px;
+padding-bottom: 44px;
+}
+.profil{
+    background-color: white;
+border-radius: 30px;
+width: 791px;
+height: 451px;
+margin-left: 126px;
+margin-bottom: 111px;
+margin-right: 523px;
+}
+.profil-text{
+    padding-left: 45px;
+    padding-top: 40px;
+    padding-right: 45px;
+    padding-bottom: 208px;
+    font-family: Roboto;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
 }
