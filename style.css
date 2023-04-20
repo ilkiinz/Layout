@@ -374,7 +374,7 @@ padding-right: 837px;
     text-align: left;
     height: 32px;
 width: 294px;
-border-radius: nullpx;
+margin-right: 70px;
 
 }
 .text-three{
@@ -384,8 +384,6 @@ border-radius: nullpx;
     line-height: 18px;
     letter-spacing: 0em;
     text-align: left;
-    height: 70px;
     width: 294px;
-    border-radius: nullpx;
-        
+    margin-right: 70px;
 }
