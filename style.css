@@ -316,10 +316,11 @@ padding-left: 246px;
 padding-bottom: 60px;
 }
 .page-three{
-    background-color: rgb(77, 117, 77);
+    background: #9DC9C8;
     height: 780px;
 width: 1440px;
 border-radius: 0px;
+padding-left: 122px;
 
 }
 .head-page-three{
@@ -329,7 +330,6 @@ font-weight: 700;
 line-height: 56px;
 letter-spacing: 0em;
 text-align: left;
-padding-left: 122px;
 padding-top: 179px;
 padding-right: 410px;
 
@@ -345,7 +345,6 @@ line-height: 25px;
 letter-spacing: 0em;
 text-align: left;
 padding-top: 54px;
-padding-left: 122px;
 padding-bottom: 30px;
 padding-right: 1158px;
 }
@@ -359,7 +358,6 @@ text-align: left;
 height: 181px;
 width: 481px;
 border-radius: nullpx;
-padding-left: 122px;
 padding-bottom: 155px;
 padding-right: 837px;
 
