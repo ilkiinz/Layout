@@ -1,8 +1,8 @@
 * {
     margin: 0px;
     padding: 0px;
+    
 }
-
 .main-page {
     padding-top: 11px;
     padding-left: 121px;
@@ -280,7 +280,7 @@ border-radius: 0px;
 border-radius: 30px;
 margin-left: 126px;
 margin-bottom: 1111px;
-margin-right: 523px;
+margin-right: 520px;
 }
 .profil-text{
     height: 20px;
@@ -315,4 +315,20 @@ padding-top: 50px;
 .fb-photo{
 padding-left: 246px;
 padding-bottom: 60px;
+}
+.page-three{
+    background-color: rgb(77, 117, 77);
+    height: 780px;
+width: 1440px;
+border-radius: 0px;
+
+}
+.head-page-three{
+    font-family: Roboto Slab;
+font-size: 55px;
+font-weight: 700;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+
 }
