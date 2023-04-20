@@ -253,12 +253,9 @@ padding-bottom: 118px;
 .page-two{
     background: #EFEFEF;
 border-radius: 0px;
-height: 780px;
-width: 1440px;
-left: -1px;
-top: 4625px;
 border-radius: 0px;
 
+border-radius: 0px;
 
 }
 .page-two-head{
@@ -279,7 +276,6 @@ border-radius: 0px;
     background-color: white;
 border-radius: 30px;
 margin-left: 126px;
-margin-bottom: 1111px;
 margin-right: 520px;
 }
 .profil-text{
@@ -330,5 +326,4 @@ font-weight: 700;
 line-height: 56px;
 letter-spacing: 0em;
 text-align: left;
-
 }
