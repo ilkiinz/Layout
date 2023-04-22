@@ -252,7 +252,7 @@ header>img {
     margin-top: 150px;
 }
 
-.third-page-container .heading {
+.third-page-container .head-third{
     display: flex;
     width: auto;
     height: auto;
@@ -312,6 +312,8 @@ header>img {
     line-height: 36px;
     font-family: Roboto;
 }
+
+
 
 .fourth-page {
     display: flex;
