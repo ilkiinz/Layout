@@ -203,25 +203,7 @@ header>img {
 }
 
 .second-page-bottom .img-block {
-    display: flex;
-    width: auto;
-    height: auto;
-    position: relative;
-}
-
-.second-page-bottom .img-block img {
-    width: 232px;
-    height: 203px;
-    z-index: 1;
-}
-
-.second-page-bottom .img-block img:nth-child(2) {
-    width: 189px;
-    height: 32px;
-    position: absolute;
-    bottom: -15px;
-    left: 30px;
-    z-index: 0;
+    display: flex
 }
 
 .second-page-bottom .text-blocks {
