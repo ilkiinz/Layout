@@ -46,7 +46,7 @@ header>img {
     height: 65px;
 }
 
-.info {
+.first-page {
     display: flex;
     width: auto;
     height: auto;
@@ -56,7 +56,7 @@ header>img {
 
 }
 
-.info-blocks {
+.first-page-icons {
     display: flex;
     width: auto;
     height: auto;
@@ -68,20 +68,7 @@ header>img {
     font-family: Roboto;
 }
 
-.info-blocks .left-img {
-    width: 22px;
-    height: 21px;
-}
 
-.info-blocks .mid-img {
-    width: 22px;
-    height: 22px;
-}
-
-.info-blocks .right-img {
-    width: 20px;
-    height: 22px;
-}
 
 .main-container {
     display: flex;
