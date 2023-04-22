@@ -34,13 +34,6 @@ body {
     padding: 0 100px;
 }
 
-.site-wrapper header {
-    display: flex;
-    width: auto;
-    height: auto;
-    padding-top: 20px;
-}
-
 header>img {
     width: 112px;
     height: 65px;
@@ -80,7 +73,7 @@ header>img {
 
 }
 
-.cont-block {
+.first-head {
     display: flex;
     width: auto;
     height: auto;
@@ -94,45 +87,29 @@ header>img {
     height: 190px;
 }
 
-.cont-block h1 {
+.first-head h1 {
     font-size: 80px;
     font-weight: 700;
     font-family: Roboto-Slab;
 }
 
-.cont-block .sec-block {
+.cont-block .first-text {
     width: auto;
     height: auto;
     margin-top: 20px;
 
 }
 
-.cont-block h3 {
+.cont-block .first-text {
     font-size: 20px;
     font-weight: 400;
 }
 
-.main-container .img-block {
+.main-container .imgage-rejisor {
     display: flex;
     width: auto;
     height: 356px;
     position: relative;
-}
-
-.main-container .img-block img:nth-child(1) {
-    width: 304px;
-    height: 356px;
-    z-index: 1;
-}
-
-.main-container .img-block img:nth-child(2) {
-    width: 274px;
-    height: 41px;
-    position: absolute;
-    bottom: -20px;
-    left: 20px;
-    z-index: 0;
-
 }
 
 .blue-box-container {
