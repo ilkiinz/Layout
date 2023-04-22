@@ -163,7 +163,7 @@ header>img {
     align-items: center;
 }
 
-.second-page .block {
+.second-page .second-block {
     display: flex;
     width: 50%;
     height: auto;
@@ -171,7 +171,7 @@ header>img {
     gap: 50px;
 }
 
-.second-page .block h1 {
+.second-page .second-block h1 {
     font-size: 55px;
     font-family: Roboto-Slab;
     font-weight: 700;
@@ -180,40 +180,17 @@ header>img {
 
 }
 
-.second-page .block h3 {
+.second-page .second-block p {
     font-size: 24px;
     font-family: Roboto;
     font-weight: 400;
     line-height: 36px;
-
 }
 
-.second-page .block:nth-child(2) {
-    width: 315px;
-    height: 315px !important;
-    justify-content: center;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    gap: 0;
-    height: auto;
+.ordinator{
+    padding-left: 135px;
 }
 
-.second-page .block img {
-    width: 100%;
-    height: 100%;
-    z-index: 1;
-
-}
-
-.second-page .block img:nth-child(2) {
-    width: 366px;
-    height: 60px;
-    position: absolute;
-    bottom: -20px;
-    left: -20px;
-    z-index: 0;
-}
 
 .second-page-bottom {
     display: flex;
