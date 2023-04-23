@@ -523,19 +523,19 @@ footer {
     padding: 50px 100px;
 }
 
-footer .top-container {
+footer .last-container {
     display: flex;
     width: auto;
     height: auto;
     justify-content: space-between;
 }
 
-footer .top-container img {
+footer .last-container img {
     width: 115px;
     height: 70px;
 }
 
-footer .top-container .contact-block {
+footer .last-container .contact-block {
     display: flex;
     width: auto;
     height: auto;
@@ -543,7 +543,7 @@ footer .top-container .contact-block {
     gap: 20px;
 }
 
-footer .top-container .mail-block,
+footer .last-container .mail-block,
 .contact-block .number-block {
     display: flex;
     width: auto;
@@ -552,7 +552,7 @@ footer .top-container .mail-block,
     align-items: center;
 }
 
-footer .top-container .mail-block img {
+footer .last-container .mail-block img {
     width: 27px;
     height: 18px;
 }
