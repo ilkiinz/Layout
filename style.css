@@ -474,13 +474,13 @@ header>img {
     height: auto;
 }
 
-.green-container .text-container .price-block h4 {
+.green-container .text-container .price-block p {
     font-size: 25px;
     font-weight: 400;
     font-family: Roboto;
 }
 
-.green-container .text-container .price-block h2 {
+.green-container .text-container .price-block h1 {
     font-size: 60px;
     font-weight: 400;
     font-family: Roboto;
@@ -500,14 +500,14 @@ header>img {
     width: 300px;
 }
 
-.green-container .text-container .information .text h4 {
+.green-container .text-container .information .text h2 {
     font-family: Roboto;
     font-size: 25px;
     font-weight: 400;
 
 }
 
-.green-container .text-container .information .text h5 {
+.green-container .text-container .information .text p {
     font-family: Roboto;
     font-size: 18px;
     font-weight: 400;
