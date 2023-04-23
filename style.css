@@ -813,7 +813,7 @@ footer .last-container .mail-block img {
 }
 
 @media screen and (max-width: 500px) {
-    .cont-block h3 {
+    .first-head p {
         font-size: 10px;
     }
 
@@ -831,15 +831,6 @@ footer .last-container .mail-block img {
     }
 
     .blue-box-container {
-        width: 300px;
-    }
-
-    .second-page .block:nth-child(2) {
-        width: 280px;
-        height: 280px !important;
-    }
-
-    .second-page .block img:nth-child(2) {
         width: 300px;
     }
 
@@ -924,10 +915,10 @@ footer .last-container .mail-block img {
     .blue-box-container {
         margin-top: 10px;
     }
-    .copyright-block {
+    .lisance-block {
         margin-top: 20px;
     }
-    .copyright-block h4 {
+    .lisance-block h1 {
         font-size: 15px;
     }
 }
