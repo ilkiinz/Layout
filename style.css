@@ -583,14 +583,14 @@ footer .last-container .mail-block img {
     height: 33px;
 }
 
-.copyright-block {
+.lisance-block {
     display: flex;
     width: auto;
     height: auto;
     margin-top: 200px;
 }
 
-.copyright-block h4 {
+.lisance-block h1 {
     font-size: 20px;
     color: white;
     font-family: Roboto;
